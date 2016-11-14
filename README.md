@@ -21,6 +21,8 @@ You can read more about the Codetrotters *Fellowship* at [http://www.codetrotter
 
 To participate in this challenge, you need a *GitHub* account. Fork this repository *and* once you finish with your solution, *send* us a Pull Request.
 
+If you are not familiar with Git or Github, you can submit your challenge [here](https://codetrotters.typeform.com/to/tMgs1X).
+
 We are looking forward to reading all your solutions!
 
 ##Challenge
